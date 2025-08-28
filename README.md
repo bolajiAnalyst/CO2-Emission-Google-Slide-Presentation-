@@ -18,6 +18,4 @@ Identification of growth drivers and emission plateaus.
 
 Clear, visual storytelling for sustainability discussions.
 
-Purpose
-
 This project supports climate change awareness, sustainability research, and policy analysis by providing a data-driven perspective on how emissions have evolved globally.
