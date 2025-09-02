@@ -1,6 +1,6 @@
 <h4>CO2 Emissions Project Overview</h4>
 
-This project visualizes **CO₂ emissions of countries across continents from 1960 to 2010 using Google Slides, Tableau, and Spreadsheets**. The goal is to identify long-term emission trends, compare regional patterns, and highlight key shifts in global carbon output over five decades.
+This project visualized **CO₂ emissions of countries across continents from 1960 to 2010 using Google Slides, Tableau, and Spreadsheets**. The goal is to identify long-term emission trends, compare regional patterns, and highlight key shifts in global carbon output over five decades.
 
 **Tools & Workflow**
 **Spreadsheets**: Data cleaning, preprocessing, and organization of CO₂ emission datasets.
